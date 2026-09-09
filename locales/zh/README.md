@@ -152,6 +152,12 @@ export DISPATCH_PROVIDER=openrouter    # 或 siliconflow
 - [`docs/CODEX-PLUGIN.md`](../../docs/CODEX-PLUGIN.md)（英文）—— Codex Plugin 架构说明。
 - 中文为阅读版；深入文档目前以英文为准。
 
+## 诚实边界
+
+- 调研负责找到并引用，不负责核实。claim 旁边的 URL 表示"这是从哪来的"，不表示"这是对的"。核实是另一道独立工序。
+- 每个切面 15 次抓取是预算，不是覆盖率。冷门题目上它会报"查不到"，而更长的搜寻也许找得到。
+- 派遣器只负责路由任务，不负责评判答案。几个模型意见一致不算证据，它们有共同盲区。
+
 ## License
 
 MIT © GiaSip

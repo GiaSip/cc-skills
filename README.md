@@ -197,6 +197,12 @@ A Chinese reading edition is available under [`locales/zh/`](locales/zh/). `skil
 
 See [CHANGELOG.md](CHANGELOG.md) for version history.
 
+## Honest boundaries
+
+- Research finds and cites; it does not verify. A URL next to a claim means "this is where it came from", not "this is true". Verification is a separate pass.
+- 15 fetches per facet is a budget, not coverage. On niche topics it will say "not found" where a longer hunt might have found something.
+- The dispatcher routes tasks; it does not judge answers. Several models agreeing is not evidence — they share blind spots.
+
 ## License
 
 MIT © GiaSip
